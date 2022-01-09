@@ -6,3 +6,4 @@ modified by git 2 dev
 Added 5 line
 
 Adding the stashed changes newly
+modified by git 2 
