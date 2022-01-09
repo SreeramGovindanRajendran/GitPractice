@@ -8,7 +8,9 @@ changed the code 1
 
 adding the line 3
 
+<<<<<<< HEAD
 modified in sreedev branch
-
+=======
 
 Test before Lunch
+>>>>>>> d870a51eb3bd1072eb19268255ba4a399045e6ce
