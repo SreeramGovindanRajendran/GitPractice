@@ -1,9 +1,12 @@
 changed code 2
 
 
+<<<<<<< Updated upstream
 modified by git 2 dev
 
 Added 5 line
 
 Adding the stashed changes newly
+=======
+>>>>>>> Stashed changes
 modified by git 2 
